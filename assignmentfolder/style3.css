@@ -1,0 +1,46 @@
+div{
+    margin-left: 10%;
+    margin-right: 20%
+    font-family: 'Roboto', sans-serif;
+    padding-left: 0%;
+    padding-right: 10%;
+}
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12pt;
+    color: darkslategrey;
+}
+
+.colorDiv {background-image: url("cover_banner.png");}
+
+hr{
+    margin-bottom: 5%
+}
+
+
+.titleDiv{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50pt;
+    color: white;
+    margin-top: 0%;
+    margin-right: 10%;
+    margin-left: 10%;}
+
+
+
+
+#div2 {height: 400px;
+    width: 40%;}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 28pt;
+    color: darkslategrey;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.wide {width:100px;}
+
